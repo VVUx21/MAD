@@ -1,7 +1,7 @@
 # MakeADream
 
 
-This Travel Recommendation Site offers tailored travel suggestions using a custom ML model powered by Gemini. Built on Next.js and deployed via Vercel, the site is fast, user-friendly, and scalable.
+This Travel Recommendation Site offers tailored travel suggestions using a custom ML model powered by Gemini. Built on Next.js and deployed via Vercel, the site is fast, user-friendly, and scalab.
 # Features
 Personalized Suggestions: Custom ML-driven travel recommendations.
 
